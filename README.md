@@ -31,6 +31,6 @@ A collaborative research project investigating acute kidney injury risk in ICU p
 
 ## Professional Opportunities
 
-I am open to opportunities in data science and machine learning, particularly where analytical depth, model interpretability, and usability are central to the work.
+I am open to opportunities in data science, machine learning and software engineering, particularly where analytical depth, model interpretability, and usability are central to the work.
 
 This profile brings together my projects, research interests, and ongoing technical development.
