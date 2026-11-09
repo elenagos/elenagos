@@ -17,9 +17,13 @@ My broader interests include healthcare AI, natural language processing, recomme
 
 ### [Cardiovascular Data Pipeline](https://github.com/elenagos/cardiovascular-data-pipeline)
 
-A system for streaming, storing, and analysing simulated cardiovascular measurements. The project connects data validation and feature engineering with anomaly detection, an API, and an interactive dashboard.
+An end-to-end system for simulated cardiovascular telemetry, combining Java-based data generation, real-time WebSocket streaming, PostgreSQL storage, Python analytics, and a FastAPI REST API. The project brings together data engineering, backend development, model lifecycle management, and an interactive Streamlit dashboard.
 
-**Technologies:** Python, Java, PostgreSQL, FastAPI, Streamlit, Docker.
+- **Backend and APIs:** Java, Python, FastAPI, REST API design, Uvicorn, WebSockets, and JSON event processing.
+- **Data and database engineering:** PostgreSQL, SQL, SQLAlchemy, JDBC, relational schema design, data validation, and persistent storage.
+- **Analytics and MLOps:** pandas, NumPy, scikit-learn, anomaly detection, feature engineering, MLflow experiment tracking, and model registry workflows.
+- **Software delivery and quality:** Docker, Docker Compose, GitHub Actions for continuous integration, Maven, pytest, JUnit, Testcontainers, Ruff, and pre-commit checks.
+- **Visualisation:** Streamlit, Plotly, and Matplotlib.
 
 ### [Acute Kidney Injury Risk Prediction](https://github.com/elenagos/aki-risk-prediction)
 
